@@ -1,0 +1,5 @@
+{
+  "name": "ZenFlow Pomodoro Timer",
+  "description": "A beautiful and functional Pomodoro timer to help you focus. Features customizable backgrounds and an integrated Spotify player to set the mood for your work and break sessions.",
+  "requestFramePermissions": []
+}
