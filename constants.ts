@@ -22,8 +22,8 @@ export const BACKGROUNDS: Background[] = [
 
 
 export const SOUNDS: Sound[] = [
-  { id: 'bell', name: 'Bell', url: 'https://www.soundjay.com/buttons/sounds/button-16.mp3' },
-  { id: 'chime', name: 'Chime', url: 'https://www.soundjay.com/buttons/sounds/button-7.mp3' },
-  { id: 'beep', name: 'Beep', url: 'https://www.soundjay.com/buttons/sounds/beep-07a.mp3' },
-  { id: 'ding', name: 'Ding', url: 'https://www.soundjay.com/buttons/sounds/button-4.mp3' },
+  { id: 'piano', name: 'Soft Piano', url: 'https://cdn.pixabay.com/download/audio/2023/03/02/audio_cf6c0c0511.mp3?filename=soft-piano-logo-141290.mp3' },
+  { id: 'bike bell', name: 'Bike Bell', url: 'https://cdn.pixabay.com/download/audio/2023/10/27/audio_8ab11e07a4.mp3?filename=bike-bell-173588.mp3' },
+  { id: 'elevator', name: 'Elevator Notification', url: 'https://cdn.pixabay.com/download/audio/2025/01/13/audio_902fc3eeb8.mp3?filename=elevator-chimenotification-ding-recreation-287560.mp3' },
+  { id: 'ding', name: 'Ding', url: 'https://cdn.pixabay.com/download/audio/2022/03/10/audio_78e5d5b524.mp3?filename=ding-47489.mp3' },
 ];
